@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **aasthasaxena217@gmail.com**
 
-- ⚡ Fun fact **There are two kinds of dance: Fingertips on a keyboard and legs on a floor.**
+- ⚡ Fun fact **Music keeps me awake.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
