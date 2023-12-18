@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Aastha Saxena</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full-stack developer from India</h3>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aasthasaxena217" alt="aasthasaxena217" /></a> </p> -->
 
 - 🔭 I’m currently working on **JavaScript and Web Development**
 
-- 🌱 I’m currently learning **Java, JavaScript, ReactJS**
+- 🌱 I’m currently learning **NodeJs, JavaScript, ReactJS**
 
-- 👯 I’m looking to collaborate on **JavaScript, Python and Django**
+- 👯 I’m looking to collaborate on **JavaScript, TypeScript and NodeJs**
 
-- 🤝 I’m looking for help with **Java, JavaScript**
+- 🤝 Exploring projects with **NodeJs, JavaScript**
 
-- 💬 Ask me about **HTML, CSS, JS, C++**
+- 💬 Ask me about **=JavsScript**
 
 - 📫 How to reach me **aasthasaxena217@gmail.com**
 
