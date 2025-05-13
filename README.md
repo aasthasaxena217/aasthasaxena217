@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **JavaScript and Web Development**
 
-- 🌱 I’m currently learning **NodeJs, JavaScript, ReactJS**
+- 🌱 I’m currently learning **NodeJs, JavaScript, ReactJS, Java**
 
 - 👯 I’m looking to collaborate on **JavaScript, TypeScript and NodeJs**
 
-- 🤝 Exploring projects with **NodeJs, JavaScript**
+- 🤝 Exploring projects with **Java, NodeJs, JavaScript**
 
 - 💬 Ask me about **=JavsScript**
 
