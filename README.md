@@ -1,32 +1,63 @@
 <h1 align="center">Hi 👋, I'm Aastha Saxena</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h3 align="center">Full-Stack Developer | Java & Spring Boot Enthusiast | Backend-Focused</h3>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aasthasaxena217" alt="aasthasaxena217" /></a> </p> -->
-
-- 🔭 I’m currently working on **JavaScript and Web Development**
-
-- 🌱 I’m currently learning **NodeJs, JavaScript, ReactJS, Java**
-
-- 👯 I’m looking to collaborate on **JavaScript, TypeScript and NodeJs**
-
-- 🤝 Exploring projects with **Java, NodeJs, JavaScript**
-
-- 💬 Ask me about **=JavsScript**
-
-- 📫 How to reach me **aasthasaxena217@gmail.com**
-
-- My Blogging Site : https://aasthasaxena.hashnode.dev/ 
-
-- ⚡ Fun fact **Music keeps me awake.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/_aasthasaxena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_aasthasaxena" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aastha2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aastha2/" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/aastha2" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="https://twitter.com/_aasthasaxena" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter" />
+  </a>
+  <a href="mailto:aasthasaxena217@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" />
+  </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aasthasaxena217&show_icons=true&locale=en&layout=compact" alt="aasthasaxena217" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aasthasaxena217&show_icons=true&locale=en" alt="aasthasaxena217" /></p>
+### 👩‍💻 About Me
+- 🚀 Backend-focused **Full-Stack Developer** from India  
+- 🔭 Currently working with **Java, Spring Boot & REST APIs**
+- 🌱 Improving skills in **System Design & Scalable Backend Architecture**
+- 👯 Open to collaborating on **Java, Spring Boot, Node.js & TypeScript projects**
+- 💬 Ask me about **Java, Spring Boot, Node.js, Backend Development**
+- ✍️ I write tech blogs on **Medium**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aasthasaxena217&" alt="aasthasaxena217" /></p>
+📖 **Blog:** https://medium.com/@aasthasaxena217  
+📫 **Email:** aaasthasaxena217@gmail.com  
+
+---
+
+### 🛠️ Tech Stack
+**Backend**
+- Java | Spring Boot | Node.js | REST APIs  
+
+**Frontend**
+- JavaScript | TypeScript | HTML | CSS  
+
+**Databases**
+- MySQL | MongoDB  
+
+**Tools & Platforms**
+- Git | GitHub | Postman | IntelliJ | VS Code  
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aasthasaxena217&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aasthasaxena217&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aasthasaxena217&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### ⚡ Fun Fact
+I don’t just build apps — I sharpen my problem-solving daily on  
+**LeetCode, CodeChef & GeeksforGeeks** 🚀
